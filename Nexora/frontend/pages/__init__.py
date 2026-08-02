@@ -1,0 +1,1 @@
+"""SeaSentry application pages."""
